@@ -1,0 +1,3 @@
+variable foo {}
+
+provider "ibm" {}

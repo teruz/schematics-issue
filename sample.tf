@@ -1,3 +1,1 @@
-variable foo {}
-
-provider "ibm" {}
+variable root-var {}
